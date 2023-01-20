@@ -1,4 +1,4 @@
- name: cta-dev
+name: cta-dev
 channels:
   - conda-forge
   - default
